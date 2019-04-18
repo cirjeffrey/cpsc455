@@ -1,0 +1,26 @@
+[{	
+	"name": "cj",
+	"password": "rabble",
+    "address": "124 south street",
+    "bank": {"chase": 200}
+},
+
+{	
+	"name": "sheba",
+	"password": "bork",
+    "address": "323 dog house",
+    "bank": {"Bones": 4400}
+},
+
+
+{	
+	"name": "bean",
+	"password": "smol",
+    "address": "33 Argus Avenue",
+    "bank": {"Navy": 300}
+}
+
+
+
+]
+
